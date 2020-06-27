@@ -2,7 +2,30 @@
 
 There is not much original content here, I am walking in the footsteps of those who know more than me, but hope that pulling all the threads together that I needed if of help to those who follow. I hope that I have given all the credits and references that are due, but if I have missed anything, then please contact me and I will happily update this content.
 
-## Building a bootloader to flash the 860c display
+## Building a bootloader to flash the 860c display]
+
+### Tools you will need
+
+- Multimeter - 0 volts to 40 volts DC
+
+![multimeter](images/2020/06/multimeter.png)
+
+- Watch makers screwdriver to adjust output voltage of DC Buck converter
+
+![screwdrivers](images/2020/06/screwdrivers.png)
+
+- Heatshrink tubing to provide electrical isolation and assembly strength.
+
+![heatshrink](images/2020/06/heatshrink.png)
+
+- Wires for connecting components
+
+![male and female wires](images/2020/06/male-and-female-wires.png)
+
+- Solder / Flux / Iron - I assume that you have access to this already.
+
+![soldering](images/2020/06/soldering.png)
+
 
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader) and I sourced the following parts.
 
