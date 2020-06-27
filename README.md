@@ -16,6 +16,15 @@ I am in no way trying to place product here. Any images or links are provided as
 
 # Building a `bootloader` to flash the 860c display
 
+## Skills
+
+All you need to do this is a logical mind who can read, think, plan and execute. This is 90% planning and 10% execution.
+
+## Tips
+
+1. Read and understand, don't learn and make mistakes as you go.
+2. Think, think again and then cut
+
 ## Tools you will need
 
 - Multimeter - 0 volts to 40 volts DC
