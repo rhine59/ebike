@@ -28,7 +28,7 @@ When assembled they looked liked this for me
 
 ![bootloader assembly](images/2020/06/bootloader-assembly.png)
 
-Now that we have built the `bootloader`, we need to adjust the voltage supply to the 860c display LCD.
+Now that we have built the `bootloader`, we need to adjust the voltage supply that will reach the 860c display LCD.
 
 ## Adjusting the output voltage from the DC Booster
 
