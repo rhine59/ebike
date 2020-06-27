@@ -27,3 +27,17 @@ Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_w
 When assembled they looked liked this for me
 
 ![bootloader assembly](images/2020/06/bootloader-assembly.png)
+
+## Adjusting the output voltage from the DC Booster
+
+You will see that the USB connection from your laptop will supply 5 volts the `in+` `in-` side of the XL6009 DC Step up boost converter.
+
+![checking input voltage](images/2020/06/checking-input-voltage.png)
+
+You need to adjust the potentiometer (little screw on the blue block) so that the output voltage from the buck converter is 30 volts.
+
+![adjusting output voltage](images/2020/06/adjusting-output-voltage.png)
+
+Now we have 30 volts output
+
+![we have 30v](images/2020/06/we-have-30v.png)
