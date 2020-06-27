@@ -1,12 +1,22 @@
 # Fitting a TongSheng TSDZ2 mid drive motor with an 8 pin controller to a 52v battery and the Bafang 860C LCD
 
+<!-- TOC -->
+
+- [Fitting a TongSheng TSDZ2 mid drive motor with an 8 pin controller to a 52v battery and the Bafang 860C LCD](#fitting-a-tongsheng-tsdz2-mid-drive-motor-with-an-8-pin-controller-to-a-52v-battery-and-the-bafang-860c-lcd)
+- [Building a `bootloader` to flash the 860c display](#building-a-bootloader-to-flash-the-860c-display)
+  - [Tools you will need](#tools-you-will-need)
+  - [Sourcing components](#sourcing-components)
+  - [Adjusting the output voltage from the DC Booster](#adjusting-the-output-voltage-from-the-dc-booster)
+
+<!-- /TOC -->
+
 There is not much original content here, I am walking in the footsteps of those who know more than me, but hope that pulling all the threads together that I needed if of help to those who follow. I hope that I have given all the credits and references that are due, but if I have missed anything, then please contact me and I will happily update this content.
 
 I am in no way trying to place product here. Any images or links are provided as samples that illustrate the story and work for me, and there are likely to be other ways to achieve the same result, but this journal is her to chronical my journey.
 
-## Building a bootloader to flash the 860c display]
+# Building a `bootloader` to flash the 860c display
 
-### Tools you will need
+## Tools you will need
 
 - Multimeter - 0 volts to 40 volts DC
 
@@ -28,6 +38,7 @@ I am in no way trying to place product here. Any images or links are provided as
 
 ![soldering](images/2020/06/soldering.png)
 
+## Sourcing components
 
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader) and I sourced the following parts.
 
@@ -51,7 +62,7 @@ Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_w
 
 The cable colours do not matter here. Just make sure that you use a colour scheme that follows the logic of the recipe. I have used the schematic from [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader)
 
-![bootloader schematic](images/2020/06/bootloader-schematic.png). Ignore the voltage `adjust 27V-58.8V` in the diagram. We will be using 30 volts.
+![bootloader schematic](images/2020/06/bootloader-schematic.png) Ignore the voltage `adjust 27V-58.8V` in the diagram. We will be using 30 volts.
 
 When assembled, the `bootloader` looked liked this for me
 
