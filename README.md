@@ -2,6 +2,8 @@
 
 There is not much original content here, I am walking in the footsteps of those who know more than me, but hope that pulling all the threads together that I needed if of help to those who follow. I hope that I have given all the credits and references that are due, but if I have missed anything, then please contact me and I will happily update this content.
 
+I am in no way trying to place product here. Any images or links are provided as samples that illustrate the story and work for me, and there are likely to be other ways to achieve the same result, but this journal is her to chronical my journey.
+
 ## Building a bootloader to flash the 860c display]
 
 ### Tools you will need
