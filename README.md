@@ -32,11 +32,15 @@ Now that we have built the `bootloader`, we need to adjust the voltage supply to
 
 ## Adjusting the output voltage from the DC Booster
 
-You will see that the USB connection from your laptop will supply 5 volts the `in+` `in-` side of the XL6009 DC Step up boost converter.
+You will see that the USB connection from your laptop will supply 5 volts to the `in+` `in-` side of the `XL6009 DC Step up boost converter`. Check that the jumpers on your `CH340G` are set to provide `5 volts` and not `3.3 volts` as below.
+
+![5 volts](images/2020/06/5-volts.png)
+
+Check the voltage delivered to the `XL6009` ....
 
 ![checking input voltage](images/2020/06/checking-input-voltage.png)
 
-You need to adjust the potentiometer (little screw on the blue block) so that the output voltage from the buck converter is 30 volts.
+You need to adjust the potentiometer (little screw on the blue block) so that the output voltage from the buck converter is 30 volts. You will need to use your multimeter to measure the DC voltage on the `+out` and `-out` side of the `XL6009`.
 
 ![adjusting output voltage](images/2020/06/adjusting-output-voltage.png)
 
