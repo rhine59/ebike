@@ -26,7 +26,7 @@ Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_w
 
 The cable colours do not matter here. Just make sure that you use a colour scheme that follows the logic of the recipe. I have used the schematic from [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader)
 
-![bootloader schematic](images/2020/06/bootloader-schematic.png)
+![bootloader schematic](images/2020/06/bootloader-schematic.png). Ignore the voltage `adjust 27V-58.8V` in the diagram. We will be using 30 volts.
 
 When assembled, the `bootloader` looked liked this for me
 
