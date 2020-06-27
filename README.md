@@ -24,7 +24,11 @@ Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_w
 
 [Ebay search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR2.TRC1.A0.H0.XXL6009.TRS0&_nkw=XL6009&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=Higo+Mini+A+cable+5+pin)
 
-When assembled they looked liked this for me
+The cable colours do not matter here. Just make sure that you use a colour scheme that follows the logic of the recipe. I have used the schematic from [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader)
+
+![bootloader schematic](images/2020/06/bootloader-schematic.png)
+
+When assembled, the `bootloader` looked liked this for me
 
 ![bootloader assembly](images/2020/06/bootloader-assembly.png)
 
