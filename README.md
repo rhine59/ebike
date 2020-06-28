@@ -14,6 +14,8 @@ There is not much original content here, I am walking in the footsteps of those 
 
 I am in no way trying to place product here. Any images or links are provided as samples that illustrate the story and work for me, and there are likely to be other ways to achieve the same result, but this journal is her to chronicle my journey.
 
+Any prices quoted here are only indicative and there will be options at different prices. Listed here to help you understand outline costs.
+
 # Building a `bootloader` to flash the 860c display
 
 See the following for the original reference materials.
