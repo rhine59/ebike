@@ -28,11 +28,11 @@ All you need to do this is a logical mind who can read, think, plan and execute.
 ## Tools that I used.
 
 <p float="left">
-  <img src="images/2020/06/multimeter.png" width="10%" />
-  <img src="images/2020/06/screwdrivers.png" width="100" />
-  <img src="images/2020/06/heatshrink.png" width="100" />
-  <img src="images/2020/06/male-and-female-wires.png" width="100" />
-  <img src="images/2020/06/soldering.png" width="100" />
+  <img src="images/2020/06/multimeter.png" width="15%" />
+  <img src="images/2020/06/screwdrivers.png" width="15%" />
+  <img src="images/2020/06/heatshrink.png" width="15%" />
+  <img src="images/2020/06/male-and-female-wires.png" width="15%" />
+  <img src="images/2020/06/soldering.png" width="15%" />
 </p>
 
 - Multimeter - 0 volts to 40 volts DC
