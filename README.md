@@ -43,8 +43,8 @@ I am not an expert in this topic, but if you can do some basic soldering, have s
 
 - Multimeter - 0 volts to 40 volts DC.
 - Watch makers screwdrivers to adjust output voltage of DC Buck converter.
-- Heatshrink tubing to provide electrical isolation and assembly strength.
-- Wires for connecting components. You will need the female ended connectors, but not the male ends.
+- Heatshrink tubing to provide electrical isolation and assembly strength. `£2`
+- Dupont Jump Wires for connecting components. You will need the female ended connectors, but not the male ends. `£2`
 - Solder / Flux / Iron - I assume that you have access to this already.
 
 ## Sourcing components and building the bootloader.
@@ -62,25 +62,25 @@ CHG340G | GND | Black  | XL6009 | IN- | Black  | HIGO B
 
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader), I sourced the following parts.
 
-1. `A CH340G RS232 to USB TTL Auto Converter Adapter` to take the signal from the `APT Burn Tools` updating software and deliver it to the `860c` LCD display.
+1. `A CH340G RS232 to USB TTL Auto Converter Adapter` to take the signal from the `APT Burn Tools` updating software and deliver it to the `860c` LCD display. `£3.20`
 
 ![USB to TTL converter](images/2020/06/usb-to-ttl-converter.png)
 
 [EBAY Search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=CH340+Gold+USB+TTL&_sacat=0)
 
-2. `A 5 pin Higo Mini B extension cable - male to male`. You will cut this in half, use 1 half to create the bootloader, and the other will attach to the end of the 860c LCD connection to the motor controller.
+2. `A 5 pin Higo Mini B extension cable - male to male`. You will cut this in half, use 1 half to create the bootloader, and the other will attach to the end of the 860c LCD connection to the motor controller. `£10`
 
 ![Higo Mini A](images/2020/06/higo-mini-a.png)
 
 [Amazon search](https://www.amazon.co.uk/Bafang-Extended-Cable-Display-750C/dp/B07GDL1TSN/ref=sr_1_3?dchild=1&keywords=Higo+Mini+A+cable+bafang&qid=1593279954&sr=8-3)
 
-3. `An XL6009 DC-DC Voltage Step Up Boost Converter` to take a 5V supply from your laptop and then boost it to the 30v required to drive the 860C LCD while it is being updated.
+3. `An XL6009 DC-DC Voltage Step Up Boost Converter` to take a 5V supply from your laptop and then boost it to the 30v required to drive the 860C LCD while it is being updated. `£3`
 
 ![xl6009](images/2020/06/xl6009.png)
 
 [Ebay search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR2.TRC1.A0.H0.XXL6009.TRS0&_nkw=XL6009&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=Higo+Mini+A+cable+5+pin)
 
-When assembled, the `bootloader` looked liked this for me
+When assembled, the `bootloader` looked liked this for me and it cost about `£20` if you had to by all the bits. There are other components that you can use and I am sure that it could be completed for less money.
 
 ![bootloader assembly](images/2020/06/bootloader-assembly.png)
 
