@@ -47,11 +47,13 @@ I am not an expert in this topic, but if you can do some basic soldering, have s
 - Wires for connecting components. You will need the female ended connectors, but not the male ends.
 - Solder / Flux / Iron - I assume that you have access to this already.
 
-## Sourcing components
+## Sourcing components and building the bootloader.
 
 Cable colours do not matter here. Just make sure that you use a colour scheme that follows the logic of the recipe. I have used the schematic from [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader)
 
 ![bootloader schematic](images/2020/06/bootloader-schematic.png) Ignore the voltage `adjust 27V-58.8V` in the diagram. We will be using 30 volts.
+
+![bootloader picture schematic](images/2020/06/bootloader-picture-schematic.png)
 
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader) and I sourced the following parts.
 
@@ -61,7 +63,7 @@ Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_w
 
 [EBAY Search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=CH340+Gold+USB+TTL&_sacat=0)
 
-2. `A 5 pin Higo Mini A extension cable - male to male`. You will cut this in half, use 1 half to create the bootloader, and the other will attach to the end of the 860c LCD connection to the motor controller.
+2. `A 5 pin Higo Mini B extension cable - male to male`. You will cut this in half, use 1 half to create the bootloader, and the other will attach to the end of the 860c LCD connection to the motor controller.
 
 ![Higo Mini A](images/2020/06/higo-mini-a.png)
 
