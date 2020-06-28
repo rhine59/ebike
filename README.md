@@ -84,7 +84,7 @@ When assembled, the `bootloader` looked liked this for me and it cost about `£2
 
 ![bootloader assembly](images/2020/06/bootloader-assembly.png)
 
-Now that we have built the `bootloader`, we need to adjust the voltage supply that will reach the 860c display LCD as we have a 5 volt supply coming from the USB port on your PC but we need a 30 volt supply to the 860c display.
+Now that we have built the `bootloader`, we need to adjust the voltage supply that will reach the 860c display LCD as we have a 5 volt supply coming from the USB port on your PC but we need a 30 volt supply to the 860c.
 
 ## Adjusting the output voltage from the DC Booster
 
