@@ -51,8 +51,6 @@ I am not an expert in this topic, but if you can do some basic soldering, have s
 
 Cable colours do not matter here. Just make sure that you use a colour scheme that follows the logic of the recipe. I have used the schematic from [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader)
 
-![bootloader schematic](images/2020/06/bootloader-schematic.png) Ignore the voltage `adjust 27V-58.8V` in the diagram. We will be using 30 volts.
-
 ![bootloader picture schematic](images/2020/06/bootloader-picture-schematic.png)
 
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader) and I sourced the following parts.
