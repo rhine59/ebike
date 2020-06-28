@@ -53,6 +53,13 @@ Cable colours do not matter here. Just make sure that you use a colour scheme th
 
 ![bootloader picture schematic](images/2020/06/bootloader-picture-schematic.png)
 
+From    | Pin | Colour | Via    | Pin | Colour | To
+--------|-----|--------|--------|-----|--------|-------
+CHG340G | 5V  | Brown  | XL6009 | IN+ | Brown  | HIGO B
+CHG340G | TXD | White  |        |     |        | HIGO B
+CHG340G | RXD | Green  |        |     |        | HIGO B
+CHG340G | GND | Black  | XL6009 | IN- | Black  | HIGO B
+
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader) and I sourced the following parts.
 
 1. `A CH340G RS232 to USB TTL Auto Converter Adapter` to take the signal from the `APT Burn Tools` updating software and deliver it to the `860c` LCD display.
