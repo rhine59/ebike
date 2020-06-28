@@ -12,13 +12,19 @@
 
 There is not much original content here, I am walking in the footsteps of those who know more than me, but hope that pulling all the threads together that I needed if of help to those who follow. I hope that I have given all the credits and references that are due, but if I have missed anything, then please contact me and I will happily update this content.
 
-I am in no way trying to place product here. Any images or links are provided as samples that illustrate the story and work for me, and there are likely to be other ways to achieve the same result, but this journal is her to chronical my journey.
+I am in no way trying to place product here. Any images or links are provided as samples that illustrate the story and work for me, and there are likely to be other ways to achieve the same result, but this journal is her to chronicle my journey.
 
 # Building a `bootloader` to flash the 860c display
 
+See the following for the original reference materials.
+
+[TSDZ2 Wiki](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader)
+
+[Eco Cycles](https://www.eco-ebike.com/blogs/eco-cycles-instructionals/850c-tsdz2-open-source-firmware-bootloader-update-tutorial)
+
 ## Skills
 
-All you need to do this is a logical mind who can read, think, plan and execute. This is 90% planning and 10% execution.
+I am not an expert in this topic, but if you can do some basic soldering, have some basic PC skills and can follow a recipe, then this should be well within your grasp. This is 90% planning and 10% execution.
 
 ## Tips
 
@@ -35,8 +41,8 @@ All you need to do this is a logical mind who can read, think, plan and execute.
   <img src="images/2020/06/soldering.png" width="15%" />
 </p>
 
-- Multimeter - 0 volts to 40 volts DC
-- Watch makers screwdriver to adjust output voltage of DC Buck converter
+- Multimeter - 0 volts to 40 volts DC.
+- Watch makers screwdrivers to adjust output voltage of DC Buck converter.
 - Heatshrink tubing to provide electrical isolation and assembly strength.
 - Wires for connecting components. You will need the female ended connectors, but not the male ends.
 - Solder / Flux / Iron - I assume that you have access to this already.
@@ -67,13 +73,11 @@ Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_w
 
 [Ebay search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR2.TRC1.A0.H0.XXL6009.TRS0&_nkw=XL6009&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=Higo+Mini+A+cable+5+pin)
 
-
-
 When assembled, the `bootloader` looked liked this for me
 
 ![bootloader assembly](images/2020/06/bootloader-assembly.png)
 
-Now that we have built the `bootloader`, we need to adjust the voltage supply that will reach the 860c display LCD.
+Now that we have built the `bootloader`, we need to adjust the voltage supply that will reach the 860c display LCD as we have a 5 volt supply coming from the USB port on your PC but we need a 30 volt supply to the 860c display.
 
 ## Adjusting the output voltage from the DC Booster
 
