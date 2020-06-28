@@ -23,12 +23,12 @@ All you need to do this is a logical mind who can read, think, plan and execute.
 ## Tips
 
 1. Read and understand, don't learn and make mistakes as you go.
-2. Think, think again and then cut
+2. Think, think some more, think again and then cut.
 
-## Tools you will need
+## Tools that I used.
 
 <p float="left">
-  <img src="images/2020/06/multimeter.png" width="100" />
+  <img src="images/2020/06/multimeter.png" width="10%" />
   <img src="images/2020/06/screwdrivers.png" width="100" />
   <img src="images/2020/06/heatshrink.png" width="100" />
   <img src="images/2020/06/male-and-female-wires.png" width="100" />
@@ -38,7 +38,7 @@ All you need to do this is a logical mind who can read, think, plan and execute.
 - Multimeter - 0 volts to 40 volts DC
 - Watch makers screwdriver to adjust output voltage of DC Buck converter
 - Heatshrink tubing to provide electrical isolation and assembly strength.
-- Wires for connecting components. You will need the female ended connectors, but we do not need the male ends.
+- Wires for connecting components. You will need the female ended connectors, but not the male ends.
 - Solder / Flux / Iron - I assume that you have access to this already.
 
 ## Sourcing components
