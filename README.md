@@ -55,12 +55,12 @@ Cable colours do not matter here. Just make sure that you use a colour scheme th
 
 ![bootloader picture schematic](images/2020/06/bootloader-picture-schematic.png)
 
-From    | Pin | Colour | Via    | Pin | Colour | To
---------|-----|--------|--------|-----|--------|-------
-CHG340G | 5V  | Brown  | XL6009 | IN+ | Brown  | HIGO B
-CHG340G | GND | Black  | XL6009 | IN- | Black  | HIGO B
-CHG340G | TXD | White  | ---->  | --> | ---->  | HIGO B
-CHG340G | RXD | Green  | ---->  | --> | ---->  | HIGO B
+From    | Pin | Colour | Pin | Via    | Pin  | Colour | To
+--------|-----|--------|-----|--------|------|--------|-------
+CHG340G | 5V  | Brown  | IN+ | XL6009 | OUT+ | Brown  | HIGO B
+CHG340G | GND | Black  | IN- | XL6009 | OUT- | Black  | HIGO B
+CHG340G | TXD | White  | --> | ---->  | -->  | ---->  | HIGO B
+CHG340G | RXD | Green  | --> | ---->  | -->  | ---->  | HIGO B
 
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader), I sourced the following parts.
 
