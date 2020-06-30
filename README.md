@@ -109,3 +109,9 @@ You need to adjust the potentiometer (little screw on the blue block) so that th
 Now we have 30 volts output and are ready to flash the `860c` LCD display.
 
 ![we have 30v](images/2020/06/we-have-30v.png)
+
+# Flashing the firmware of the TSDZ2 motor controller
+
+You will need ...
+
+![st-link-v2](images/2020/06/st-link-v2.png)
