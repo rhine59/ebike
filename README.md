@@ -59,8 +59,8 @@ From    | Pin | Colour | Pin | Via    | Pin  | Colour | To
 --------|-----|--------|-----|--------|------|--------|-------
 CHG340G | 5V  | Brown  | IN+ | XL6009 | OUT+ | Brown  | HIGO B
 CHG340G | GND | Black  | IN- | XL6009 | OUT- | Black  | HIGO B
-CHG340G | TXD | White  | --> | ---->  | -->  | ---->  | HIGO B
-CHG340G | RXD | Green  | --> | ---->  | -->  | ---->  | HIGO B
+CHG340G | TXD | White  | --> | ---->  | -->  | White  | HIGO B
+CHG340G | RXD | Green  | --> | ---->  | -->  | Green  | HIGO B
 
 Following the recipe [here](https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki/Flash-the-firmware-on-860C-850C-using-bootloader), I sourced the following parts.
 
