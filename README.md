@@ -114,8 +114,20 @@ Now we have 30 volts output and are ready to flash the `860c` LCD display.
 
 You will need
 
-1. An `ST-Link V2` to provide the link from the software on your PC to the `throttle sensor` inputs to your TSDZ2 motor controller. `£3`
+1. An `ST-Link V2` to provide the link from the software on your PC to the `throttle sensor` inputs to your TSDZ2 motor controller. Some `ST-Link V2` sellers provide 4 x Dupont connectors, but you will need a total of `7` connectors if you are building a `bootloader` to flash your 860C display and are flashing your TSDZ2 motor controller.
+
+Remember that the software versions on the controller and display operate as a pair, so you are upgrading both if you are upgrading any.
+
+`£3`
 
 [Ebay Search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1311.R1.TR5.TRC1.A0.H0.Xst-link.TRS0&_nkw=st+link+v2&_sacat=0)
 
 ![st-link-v2](images/2020/06/st-link-v2.png)
+
+2. `Dupont` wire connectors - female to female.
+
+`£2`
+
+[Ebay search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=femal+female+dupont&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=st+link+v2)
+
+![Dupont female connectors](images/2020/06/dupont-female-connectors.png)
