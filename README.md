@@ -118,10 +118,6 @@ You will need
 
 Remember that the software versions on the controller and display operate as a pair, so you are upgrading both if you are upgrading any.
 
-I have found that the pin outs on the `ST-Link V2` vary, so have a look at the diagram on the face of the device and understand your pinouts are organised.
-
-![stlink pinouts](images/2020/06/stlink-pinouts.png)
-
 `£3`
 
 [Ebay Search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1311.R1.TR5.TRC1.A0.H0.Xst-link.TRS0&_nkw=st+link+v2&_sacat=0)
@@ -135,3 +131,11 @@ I have found that the pin outs on the `ST-Link V2` vary, so have a look at the d
 [Ebay search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=femal+female+dupont&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=st+link+v2)
 
 ![Dupont female connectors](images/2020/06/dupont-female-connectors.png)
+
+## ST-Link V2 pinouts
+
+I have found that the pin outs on the `ST-Link V2` vary, so have a look at the diagram on the face of the device and understand how your pinouts are organised.
+
+![stlink pinouts](images/2020/06/stlink-pinouts.png)
+
+![bottom bracket](images/2020/06/bottom-bracket.png)
