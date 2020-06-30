@@ -147,3 +147,7 @@ I have found that the pin outs on the `ST-Link V2` vary, so have a look at the d
 [Bottom bracket dimensions](https://greenpedel.en.made-in-china.com/product/UNSnMspdyyWh/China-Greenpedel-MID-Drive-Motor-Tsdz-2-36V-500W-Electric-Bicycle-Motor-Kit.html)
 
 ![bottom bracket](images/2020/06/bottom-bracket.png)
+
+[Ebay search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=IDC+10+PIN+Female+Header+FC-10+2.54+mm+pitch+Socket+Connector+&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=IDC+10+PIN+Female+Header+FC-10+2.54+mm+pitch+Socket+Connector+In+NSNJ)
+
+![socket connector](images/2020/06/socket-connector.png)
