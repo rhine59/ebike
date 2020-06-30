@@ -138,4 +138,12 @@ I have found that the pin outs on the `ST-Link V2` vary, so have a look at the d
 
 ![stlink pinouts](images/2020/06/stlink-pinouts.png)
 
+## Collected information
+
+[Bafang BBSHD Wiring Diagram](https://endless-sphere.com/forums/viewtopic.php?f=28&t=79788&start=5200)
+
+![bafang wiring diagram](images/2020/06/bafang-wiring-diagram.png)
+
+[Bottom bracket dimensions](https://greenpedel.en.made-in-china.com/product/UNSnMspdyyWh/China-Greenpedel-MID-Drive-Motor-Tsdz-2-36V-500W-Electric-Bicycle-Motor-Kit.html)
+
 ![bottom bracket](images/2020/06/bottom-bracket.png)
