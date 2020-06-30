@@ -47,7 +47,7 @@ I am not an expert in this topic, but if you can do some basic soldering, have s
 - Watch makers screwdrivers to adjust output voltage of XL6009 DC Step Up converter.
 - Heatshrink tubing to provide electrical isolation and assembly strength. `£2`
 - Dupont wires for connecting components. You will need the female ended connectors, suggest you buy female/female wires as you will need them to flash the TSDZ2. `£2`
-- Solder / Flux / Iron - I assume that you have access to this already.
+- Solder / Flux / Iron - I assume that you have access to these already.
 
 ## Sourcing components and building the bootloader.
 
