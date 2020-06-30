@@ -112,6 +112,10 @@ Now we have 30 volts output and are ready to flash the `860c` LCD display.
 
 # Flashing the firmware of the TSDZ2 motor controller
 
-You will need ...
+You will need
+
+1. An `ST-Link V2` to provide the link from the software on your PC to the `throttle sensor` inputs to your TSDZ2 motor controller. `£3`
+
+[Ebay Search](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1311.R1.TR5.TRC1.A0.H0.Xst-link.TRS0&_nkw=st+link+v2&_sacat=0)
 
 ![st-link-v2](images/2020/06/st-link-v2.png)
