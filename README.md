@@ -124,6 +124,16 @@ Remember that the software versions on the controller and display operate as a p
 
 ![st-link-v2](images/2020/06/st-link-v2.png)
 
+.....
+
+`ST-Link V2` connected to the `throttle` connector from the TSDZ2 harness
+
+![flashing the tsdz2](images/2020/08/flashing-the-tsdz2.png)
+
+When complete, you will see `update complete` on the PC screen.
+
+![update complete](images/2020/08/update-complete.png)
+
 2. `Dupont` wire connectors - female to female.
 
 `£2`
