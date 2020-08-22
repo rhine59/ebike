@@ -180,6 +180,17 @@ black                  | black                     | GND
 
 ![helping hands](images/2020/08/helping-hands.png)
 
+When complete but before final weather proofing.
+
+![final connection](images/2020/08/final-connection.png)
+
+2. You will need a harness that you connect to your new 8 pin female Higo connector on your `TSDZ2` motor harness that then splits to feed display, brakes (2) and throttle. The image below gives a good overview of the connectors in the harness and what they are used for.
+
+![splitter harness](images/2020/08/splitter-harness.png)
+
+I again sourced by cable on `Ebay` using a `Ebike Accessories Harness Higo 1T4 Wiring Cable for Bafang Mid Motor Kit BBS0102` search and paid `£13.99`
+
+
 ## Collected information
 
 [Bafang BBSHD Wiring Diagram](https://endless-sphere.com/forums/viewtopic.php?f=28&t=79788&start=5200)
