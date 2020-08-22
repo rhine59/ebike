@@ -188,8 +188,7 @@ When complete but before final weather proofing.
 
 ![splitter harness](images/2020/08/splitter-harness.png)
 
-I again sourced by cable on `Ebay` using a `Ebike Accessories Harness Higo 1T4 Wiring Cable for Bafang Mid Motor Kit BBS0102` search and paid `£13.99`
-
+I again sourced by cable on `Ebay` using a `Ebike Accessories Harness Higo 1T4 Wiring Cable for Bafang Mid Motor Kit BBS0102` search and paid `£13.99`.
 
 ## Collected information
 
