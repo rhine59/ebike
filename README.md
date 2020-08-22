@@ -148,6 +148,38 @@ I have found that the pin outs on the `ST-Link V2` vary, so have a look at the d
 
 ![stlink pinouts](images/2020/06/stlink-pinouts.png)
 
+![stlink flash tsdz2](images/2020/08/stlink-flash-tsdz2.png)
+
+## Connecting the 860C display to the 8pin TSDZ2 harness.
+
+Others have been here before me and special thanks to `Ben Garside` (bejam) on the [endless-sphere ](https://endless-sphere.com/forums/viewtopic.php?f=30&t=93818&p=1575340&hilit=bejam#p1575340) website for his support.
+
+1. You will need an `8pin female Higo cable`
+
+![8pin female Higo](images/2020/08/8pin-female-higo.png)
+
+I sourced mine on `Ebay` by searching on `Higo Waterproof Connector 2 3 4 5 6 8 pin cable lead 1m ebike electric bafang`
+
+`£8.99` in my case.
+
+This needs connecting to the 8pin harness from the `TSDZ2` motor, so you will need remove the existing female Higo connector and then reconnect the wires from the 8pin harness cable to the 8pin Higo cable. The wires are the same colour, but they need to be connected as follows:-
+
+
+8pin female Higo cable | 8pin 1T4 cable from TSDZ2 | Function
+-----------------------|---------------------------|---------
+blue                   | brown                     | P+
+red                    | orange                    | Pl
+yellow                 | yellow                    | Rx
+white                  | red                       | 5V
+green                  | white                     | brake
+orange                 | blue                      | throttle
+brown                  | green                     | Tx
+black                  | black                     | GND
+
+`Helping Hands` are a great help for this job. Make sure that you insulate each solder joint with shrink wrap and then shrink wrap the completed bundle again to provide strength and protection from the elements.
+
+![helping hands](images/2020/08/helping-hands.png)
+
 ## Collected information
 
 [Bafang BBSHD Wiring Diagram](https://endless-sphere.com/forums/viewtopic.php?f=28&t=79788&start=5200)
