@@ -194,6 +194,10 @@ black                  | black                     | GND
 
 `Helping Hands` are a great help for this job. Make sure that you insulate each solder joint with shrink wrap and then shrink wrap the completed bundle again to provide strength and protection from the elements.
 
+![helping hands image](images/2020/08/helping-hands-image.png)
+
+In use for this job ....
+
 ![helping hands](images/2020/08/helping-hands.png)
 
 When complete but before final weather proofing.
