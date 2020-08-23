@@ -182,7 +182,7 @@ black                  | black                     | GND
 
 When complete but before final weather proofing.
 
-![final connection](images/2020/08/final-connection.png)
+![final connections](images/2020/08/final-connections.png)
 
 2. You will need a harness that you connect to your new 8 pin female Higo connector on your `TSDZ2` motor harness that then splits to feed display, brakes (2) and throttle. The image below gives a good overview of the connectors in the harness and what they are used for.
 
