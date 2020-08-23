@@ -2,14 +2,20 @@
 
 <!-- TOC -->
 
+- [Fitting a TongSheng TSDZ2 mid drive motor with an 8 pin controller to a 52v battery and the Bafang 860C LCD](#fitting-a-tongsheng-tsdz2-mid-drive-motor-with-an-8-pin-controller-to-a-52v-battery-and-the-bafang-860c-lcd)
 - [Building a `bootloader` to flash the 860c display](#building-a-bootloader-to-flash-the-860c-display)
   - [Skills](#skills)
   - [Tips](#tips)
   - [Tools that I used.](#tools-that-i-used)
-  - [Sourcing components](#sourcing-components)
+  - [Sourcing components and building the bootloader.](#sourcing-components-and-building-the-bootloader)
   - [Adjusting the output voltage from the DC Booster](#adjusting-the-output-voltage-from-the-dc-booster)
+- [Flashing the firmware of the TSDZ2 motor controller](#flashing-the-firmware-of-the-tsdz2-motor-controller)
+  - [ST-Link V2 pinouts](#st-link-v2-pinouts)
+  - [Connecting the 860C display to the 8pin TSDZ2 harness.](#connecting-the-860c-display-to-the-8pin-tsdz2-harness)
+  - [Collected information](#collected-information)
 
 <!-- /TOC -->
+
 There is not much original content here, I am walking in the footsteps of those who know more than me, but hope that pulling all the threads together that I needed is of help to those who follow. I hope that I have given all the credits and references that are due, but if I have missed anything, then please contact me and I will happily update this content.
 
 I am in no way trying to place product here. Any images or links are provided as samples that illustrate the story and as they worked for me. There are likely to be other ways to achieve the same result, but this journal is here to chronicle my journey.
