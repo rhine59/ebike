@@ -154,7 +154,13 @@ I have found that the pin outs on the `ST-Link V2` vary, so have a look at the d
 
 Others have been here before me and special thanks to `Ben Garside` (bejam) on the [endless-sphere ](https://endless-sphere.com/forums/viewtopic.php?f=30&t=93818&p=1575340&hilit=bejam#p1575340) website for his support.
 
-1. You will need an `8pin female Higo cable`
+Before we start, here is an overview of what we are going to do.
+
+![cable schematic](images/2020/08/cable-schematic.png)
+
+To do this we will need ....
+
+1. An `8pin female Higo cable`
 
 ![8pin female Higo](images/2020/08/8pin-female-higo.png)
 
