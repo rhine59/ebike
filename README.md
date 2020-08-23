@@ -184,7 +184,7 @@ This needs connecting to the 8pin harness from the `TSDZ2` motor, so you will ne
 8pin female Higo cable | 8pin 1T4 cable from TSDZ2 | Function
 -----------------------|---------------------------|---------
 blue                   | brown                     | P+
-red                    | orange                    | Pl
+red                    | orange                    | PL
 yellow                 | yellow                    | Rx
 white                  | red                       | 5V
 green                  | white                     | brake
