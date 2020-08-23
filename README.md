@@ -162,6 +162,10 @@ I sourced mine on `Ebay` by searching on `Higo Waterproof Connector 2 3 4 5 6 8 
 
 `£8.99` in my case.
 
+Here is a picture of the TSDZ2 with associated cables.
+
+![tsdz2 cables](images/2020/08/tsdz2-cables.png)
+
 This needs connecting to the 8pin harness from the `TSDZ2` motor, so you will need remove the existing female Higo connector and then reconnect the wires from the 8pin harness cable to the 8pin Higo cable. The wires are the same colour, but they need to be connected as follows:-
 
 
