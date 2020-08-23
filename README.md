@@ -11,8 +11,8 @@
   - [Adjusting the output voltage from the DC Booster](#adjusting-the-output-voltage-from-the-dc-booster)
 - [Flashing the firmware of the TSDZ2 motor controller](#flashing-the-firmware-of-the-tsdz2-motor-controller)
   - [ST-Link V2 pinouts](#st-link-v2-pinouts)
-  - [Connecting the 860C display to the 8pin TSDZ2 harness.](#connecting-the-860c-display-to-the-8pin-tsdz2-harness)
-  - [Collected information](#collected-information)
+- [Connecting the 860C display to the 8pin TSDZ2 harness.](#connecting-the-860c-display-to-the-8pin-tsdz2-harness)
+- [Other collected information](#other-collected-information)
 
 <!-- /TOC -->
 
